@@ -84,6 +84,12 @@ main {
   margin: 0 1.5rem;
 }
 
+.titleicon svg {
+  width: 2rem;
+  min-width: 2rem;
+  margin: 0 1.5rem;
+}
+
 .fa-primary {
   color: #ff8811;
 }
